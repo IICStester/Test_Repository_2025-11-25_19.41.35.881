@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "aKVlXFa8IR6dwm43ZtL94Y",
-    "name" : "Versioned Mapping - Edit",
+    "id" : "aaIzU3VckQydFlvoRcq12a",
+    "name" : "Versioned Mapping - Delete",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,21 +9,21 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100TR170000000001PZ"
+        "repoHandle" : "0100TR170000000001QH"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Mapping for testing Edit changes. ",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-11-25T14:16:24.718Z",
+  "updateTime" : "2025-11-25T14:16:24.719Z",
   "objectRefs" : [ ],
   "readableFileExtension" : "json",
   "readableFilePresent" : true
